@@ -7,6 +7,7 @@ This repository contains descriptive solutions and implementations for optimal c
 
 - **Quadratic Programming (QP)**: Solves the discrete-time Linear Quadratic Regulator (LQR) problem exactly using matrix algebra. Fast and accurate for linear systems with quadratic cost, and naturally supports state and control constraints.
 
+![image](https://github.com/user-attachments/assets/adc5491e-d14b-4fa6-87d1-a1e43d6e4cd0)
 
 ![image](https://github.com/user-attachments/assets/8f6ed83d-2c4a-4a0b-a9ee-356814a9c473)
 
